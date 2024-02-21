@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'Animation.dart';
 
 class StartScreen extends StatelessWidget {
   const StartScreen(this.StartQuiz, {super.key});
@@ -10,13 +11,10 @@ class StartScreen extends StatelessWidget {
       children: [
         Opacity(
           opacity: 0.5,
-          child: Image.asset(
-            'lib/quiz-logo.png',
-            width: 200,
-            color: Color(0xfffefefe),
-          ),
+          child: AnimationFade(),
         ),
         const Padding(padding: EdgeInsets.only(top: 100)),
+        textAnimated(),
         Text(
           "Learn Flutter the Fun Way",
           style: TextStyle(fontSize: 28, color: Colors.white),
