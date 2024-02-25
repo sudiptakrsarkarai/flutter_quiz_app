@@ -1,9 +1,17 @@
 # FlutterQuizApp
 
-<p align="center">
+<p align="left">
+  <h5>Start Screen</h5>
   <img src="quiz_app_logo.png" alt="FlutterQuizApp Logo" width="200">
 </p>
-
+<p align="center">
+  <h5>Questions Screen</h5>
+  <img src="question.png" alt="FlutterQuizApp Logo" width="200">
+</p>
+<p align="right">
+  <h5>Result Screen</h5>
+  <img src="result.png" alt="FlutterQuizApp Logo" width="200">
+</p>
 ---
 
 Welcome to FlutterQuizApp, your go-to solution for engaging quizzes on the fly! Whether you're a trivia enthusiast, an educator looking to gamify learning, or a developer eager to contribute, this Flutter-based quiz application has you covered.
