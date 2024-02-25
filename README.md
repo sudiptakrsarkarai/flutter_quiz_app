@@ -1,18 +1,9 @@
 # FlutterQuizApp
 
-<div style="display: flex; justify-content: space-around;">
-  <div>
-    <h5>Start Screen</h5>
-    <img src="quiz_app_logo.png" alt="FlutterQuizApp Logo" width="200">
-  </div>
-  <div>
-    <h5>Questions Screen</h5>
-    <img src="question.png" alt="FlutterQuizApp Logo" width="200">
-  </div>
-  <div>
-    <h5>Result Screen</h5>
-    <img src="result.png" alt="FlutterQuizApp Logo" width="200">
-  </div>
+<div align="center">
+  <img src="quiz_app_logo.png" alt="FlutterQuizApp Logo" width="200">
+  <img src="question.png" alt="FlutterQuizApp Logo" width="200">
+  <img src="result.png" alt="FlutterQuizApp Logo" width="200">
 </div>
 ---
 
