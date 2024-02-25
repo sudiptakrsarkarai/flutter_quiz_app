@@ -1,6 +1,6 @@
 import 'package:quiz/question_blueprint.dart';
 
-const question = [
+const questions = [
   QuizQuestion(
     "What are the main building blocks of flutter ?",
     [
